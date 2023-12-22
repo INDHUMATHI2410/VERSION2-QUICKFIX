@@ -1,0 +1,50 @@
+{
+    "products":[
+        {
+            "id":"1",
+            "product":"aircooler",
+            "title":"cool"
+        },
+        {
+            "id":"2",
+            "product":"airconditioner",
+            "title":"supercool"
+        },
+        {
+            "id":"3",
+            "product":"waterheater",
+            "title":"warm"
+        },
+        {
+            "id":"4",
+            "product":"waterpurifier",
+            "title":"pure"
+        },{
+            "id":"5",
+            "product":"computer",
+            "title":"tech"
+        }
+    ],
+    "users":[
+        {
+            "name":"joes",
+            "phone number":"9765432654"
+        },
+        {
+            "name":"greys",
+            "phone number":"86545768676"
+        },
+        {
+            "name":"star",
+            "phone number":"372496341"
+        },
+        {
+            "name":"jessy",
+            "phone number":"5459899876"
+        },
+        {
+            "name":"tuto",
+            "phone number":"986756507987"
+        }
+    ]
+}
